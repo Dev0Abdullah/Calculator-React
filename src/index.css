@@ -19,7 +19,6 @@ body {
   border-radius: 25px;
   padding: 2rem;
   background-color: #000;
-  /* flex */
   display: flex;
   justify-content: center;
   align-items: center;
